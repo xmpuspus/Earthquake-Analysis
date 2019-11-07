@@ -1,0 +1,306 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-10-31T01:11:19.120Z,6.9098,125.1559,10,6.5,mww,,19,0.449,0.75,us,us700061e9,2019-11-06T21:13:07.648Z,"0km NW of Bulatukan, Philippines",earthquake,6,1.7,0.048,42,reviewed,us,us
+2019-10-29T01:04:44.738Z,6.8016,125.0401,15.32,6.6,mww,,31,0.597,1.27,us,us6000645n,2019-11-03T03:23:21.384Z,"14km E of Bual, Philippines",earthquake,5.3,2.8,0.043,52,reviewed,us,us
+2019-10-16T11:37:06.046Z,6.7124,125.0046,14.12,6.4,mww,,33,0.671,0.86,us,us70005ulm,2019-10-30T20:18:54.842Z,"7km ENE of Columbio, Philippines",earthquake,6.3,3.8,0.055,32,reviewed,us,us
+2019-09-29T02:02:51.935Z,5.6929,126.5495,73,6.2,mww,,16,1.673,1.3,us,us70005nbb,2019-10-25T23:18:20.792Z,"84km SSE of Pondaguitan, Philippines",earthquake,2.6,1.8,0.041,58,reviewed,us,us
+2019-07-26T23:37:58.444Z,20.8373,121.9744,9,6,mww,,23,2.138,0.75,us,us60004w8x,2019-10-11T20:12:37.040Z,"14km ENE of Itbayat, Philippines",earthquake,6.4,1.7,0.055,32,reviewed,us,us
+2019-05-31T10:12:32.876Z,6.2795,126.479,98.72,6.1,mww,,26,1.189,0.74,us,us70003tl7,2019-08-24T21:17:39.040Z,"34km ESE of Pondaguitan, Philippines",earthquake,6.2,4.6,0.048,41,reviewed,us,us
+2019-04-23T05:37:53.147Z,11.7547,125.2013,56,6.4,mww,,15,4.67,1.07,us,us70003aj3,2019-07-13T18:42:34.040Z,"17km ESE of Tutubigan, Philippines",earthquake,7,1.9,0.042,54,reviewed,us,us
+2019-04-22T09:11:12.013Z,14.9538,120.5149,21.84,6.1,mww,,20,0.94,1.01,us,us70003a63,2019-07-07T05:56:29.909Z,"3km SSW of Floridablanca, Philippines",earthquake,6.3,3.7,0.035,77,reviewed,us,us
+2019-03-08T15:06:12.620Z,10.384,126.006,30,6,mww,,102,3.32,0.92,us,us1000jccx,2019-05-24T21:21:17.040Z,"40km N of Santa Monica, Philippines",earthquake,8.5,1.7,0.043,51,reviewed,us,us
+2018-12-29T03:39:09.740Z,5.8983,126.9209,60.21,7,mww,,21,1.769,1.45,us,us2000iyta,2019-10-29T16:20:14.141Z,"96km ESE of Pondaguitan, Philippines",earthquake,6.1,3.2,0.038,67,reviewed,us,us
+2018-11-04T07:55:29.280Z,7.7599,123.867,600.71,6,mww,,22,1.831,0.6,us,us2000i6mv,2019-01-21T14:29:46.040Z,"10km SSE of Sapad, Philippines",earthquake,8.9,3.3,0.036,74,reviewed,us,us
+2018-09-08T07:16:49.620Z,7.2377,126.4779,10,6.2,mww,,30,0.907,0.92,us,us2000haxi,2019-10-29T16:16:19.439Z,"7km WNW of Manay, Philippines",earthquake,6.1,1.8,0.043,52,reviewed,us,us
+2018-05-05T06:19:05.040Z,14.5708,123.9192,18,6.1,mww,,21,2.928,0.98,us,us1000dym9,2018-07-27T20:20:29.040Z,"64km NNW of Pandan, Philippines",earthquake,4.4,1.8,0.055,32,reviewed,us,us
+2018-04-05T03:53:38.410Z,6.8325,126.7785,34,6,mww,,17,1.213,0.82,us,us2000dus5,2018-06-30T01:11:29.040Z,"43km ESE of Tarragona, Philippines",earthquake,7.3,1.8,0.06,27,reviewed,us,us
+2017-08-11T05:28:25.790Z,14.0065,120.7391,172,6.2,mww,,17,0.214,0.81,us,us2000a77i,2017-10-25T00:38:08.040Z,"1km SE of Tuy, Philippines",earthquake,6.6,1.9,0.045,47,reviewed,us,us
+2017-07-06T08:03:57.550Z,11.1269,124.6286,9,6.5,mww,,30,4.139,0.65,us,us1000976a,2017-10-03T00:47:51.040Z,"2km S of Lim-oo, Philippines",earthquake,6.9,1.8,0.047,44,reviewed,us,us
+2017-05-20T01:06:14.250Z,9.3818,123.9537,533,6,mww,,28,2.804,0.99,us,us10008tp0,2017-08-05T03:32:12.040Z,"25km S of Alburquerque, Philippines",earthquake,8,1.9,0.042,55,reviewed,us,us
+2017-04-28T20:23:17.260Z,5.5043,125.0658,26,6.9,mww,,14,1.636,0.99,us,us10008ls4,2017-08-05T00:39:03.876Z,"31km SW of Burias, Philippines",earthquake,6.6,1.8,0.044,49,reviewed,us,us
+2017-02-10T14:03:43.920Z,9.9071,125.4516,15,6.5,mww,,36,2.822,0.95,us,us20008ixa,2017-05-25T15:03:39.578Z,"10km N of Mabua, Philippines",earthquake,5.2,1.7,,,reviewed,us,us
+2017-01-10T06:13:48.140Z,4.4782,122.6171,627.17,7.3,mww,,18,3.813,1.05,us,us10007s9c,2017-05-07T17:42:08.352Z,"189km SSE of Tabiauan, Philippines",earthquake,8.5,3,,,reviewed,us,us
+2016-09-23T22:53:10.400Z,6.5717,126.4918,65,6.3,mww,,13,1.032,0.93,us,us10006s4v,2016-12-14T03:17:45.040Z,"36km SE of Tamisan, Philippines",earthquake,2.3,1.8,,,reviewed,us,us
+2016-04-13T18:21:52.730Z,7.7917,122.0231,17,6,mww,,19,3.598,0.93,us,us20005hux,2017-10-11T21:24:29.524Z,"15km NW of Siocon, Philippines",earthquake,3.3,1.6,,,reviewed,us,us
+2015-07-03T06:43:21.540Z,10.1691,125.8907,32,6.1,mww,,19,3.095,1.03,us,us10002n6s,2017-10-11T21:09:06.763Z,"23km NW of Santa Monica, Philippines",earthquake,7.2,1.8,,,reviewed,us,us
+2014-12-29T09:29:37.390Z,8.6341,121.5213,8,6.1,mww,,35,4.31,1.17,us,usc000taik,2016-11-10T21:45:54.434Z,"109km SSE of Cagayancillo, Philippines",earthquake,6.9,1.7,,,reviewed,us,us
+2014-12-02T05:11:31.000Z,6.1572,123.1261,614,6.6,mww,,9,2.6,1.32,us,usb000t20t,2016-11-10T21:45:33.845Z,"106km WSW of Sangay, Philippines",earthquake,8.6,1.9,,,reviewed,us,us
+2014-07-14T07:59:57.290Z,5.7144,126.4776,20,6.3,mww,,44,1.615,1.07,us,usb000rsr5,2015-01-30T09:58:05.450Z,"78km SSE of Pondaguitan, Philippines",earthquake,,1.7,,,reviewed,us,us
+2014-05-15T10:16:42.020Z,9.3832,122.0604,15.46,6.3,mww,,15,4.172,0.97,us,usb000qniy,2017-10-11T20:51:49.722Z,"51km WSW of Alim, Philippines",earthquake,,2.9,,,reviewed,us,us
+2013-10-15T00:12:32.050Z,9.8796,124.1167,19.04,7.1,mww,,12,3.144,1.3,us,usb000kdb4,2017-11-14T15:39:03.247Z,"4km SE of Sagbayan, Philippines",earthquake,,2.9,,,reviewed,us,us
+2013-02-16T04:37:36.220Z,5.812,125.748,105,6.1,mww,513,17.6,,0.76,us,usc000f8be,2015-06-30T16:59:04.052Z,"16km SE of Caburan, Philippines",earthquake,,,,,reviewed,us,us
+2012-11-02T18:17:32.730Z,9.219,126.161,37,6.1,mww,527,11.5,,1.04,us,usp000juy1,2017-10-11T20:17:13.793Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+2012-10-17T04:42:30.400Z,4.232,124.52,326,6,mww,513,19.5,,0.99,us,usp000ju30,2015-06-30T16:59:04.007Z,"Celebes Sea",earthquake,,3.4,,,reviewed,us,us
+2012-08-31T12:47:33.380Z,10.811,126.638,28,7.6,mww,682,10.2,,1.02,us,usp000jr83,2018-10-17T20:37:05.687Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+2012-02-06T10:10:19.850Z,9.885,123.095,9,6,mww,335,24.9,,0.99,us,usp000jek9,2017-10-11T19:58:59.178Z,"Negros - Cebu region, Philippines",earthquake,,,,,reviewed,us,us
+2012-02-06T03:49:12.520Z,9.999,123.206,11,6.7,mww,572,11.1,,1.07,us,usp000jejw,2017-04-26T18:12:55.816Z,"Negros - Cebu region, Philippines",earthquake,,,,,reviewed,us,us
+2011-11-30T00:27:06.990Z,15.455,118.999,9,6,mww,370,11.5,,1.01,us,usp000jbmj,2015-06-30T16:59:03.914Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+2011-07-11T20:47:04.300Z,9.509,122.175,19,6.4,mww,401,14.5,,1.26,us,usp000j4p4,2017-04-13T22:26:32.733Z,"Negros, Philippines",earthquake,,,,,reviewed,us,us
+2011-03-20T08:26:09.580Z,18.994,121.246,27,6,mww,392,28.5,,1.1,us,usp000hy18,2015-06-30T16:59:03.808Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,us
+2011-02-10T14:39:27.710Z,4.195,122.974,523.2,6.5,mww,488,11.4,,1.09,us,usp000huab,2015-06-30T16:59:03.785Z,"Celebes Sea",earthquake,,,,,reviewed,us,us
+2010-07-29T07:31:56.240Z,6.548,123.222,618,6.6,mwc,179,30.1,,1.43,us,usp000hh3f,2016-11-10T02:31:12.251Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+2010-07-24T05:35:01.060Z,6.218,123.519,553,6.6,mwc,380,18.8,,1.12,us,usp000hgnj,2016-11-10T02:31:04.205Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,gcmt
+2010-07-23T23:15:10.190Z,6.776,123.259,640.6,7.5,mwc,441,17.5,,0.82,us,usp000hgmq,2017-11-13T19:16:21.328Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,gcmt
+2010-07-23T22:51:11.840Z,6.497,123.48,578,7.6,mwc,340,15.1,,0.91,us,usp000hgmh,2018-09-28T20:00:53.104Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+2010-07-23T22:08:11.250Z,6.718,123.409,607.1,7.3,mwc,491,16.5,,0.91,us,usp000hgmd,2018-09-28T19:56:32.818Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+2010-05-31T10:16:00.230Z,6.948,124.025,20,6,mwc,234,18.5,,1.06,us,usp000hddw,2017-04-13T22:25:12.099Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,gcmt
+2010-03-25T05:29:24.720Z,13.827,120.071,16,6,mwc,260,20.6,,0.88,us,usp000h9yk,2017-04-26T18:10:41.370Z,"Mindoro, Philippines",earthquake,,,,,reviewed,us,gcmt
+2009-11-28T18:10:20.630Z,5.326,126.288,38.8,6.1,mwc,221,24.4,,1.03,us,usp000h4hk,2016-11-10T02:20:59.626Z,"Mindanao, Philippines",earthquake,,7.2,,,reviewed,us,gcmt
+2009-10-04T10:58:00.170Z,6.74,123.378,620,6.6,mwc,419,11.6,,1.05,us,usp000h2c1,2016-11-10T02:18:01.535Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+2009-06-14T05:58:43.270Z,5.361,126.438,35,6.1,mwc,261,19.7,,0.93,us,usp000gy63,2016-11-10T02:13:21.485Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+2009-04-19T05:23:25.880Z,4.136,126.678,25,6.1,mwc,237,16.1,,0.9,us,usp000gwbr,2017-04-26T18:09:12.254Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,reviewed,us,us
+2009-04-04T05:31:55.480Z,5.149,127.201,48,6.3,mwc,281,15.7,,0.96,us,usp000gvqy,2017-04-26T18:09:08.865Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+2008-12-25T03:20:29.350Z,5.752,125.377,206,6.3,mwc,328,19.8,,1.05,us,usp000grdx,2016-11-10T02:05:52.117Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+2008-08-15T10:25:16.530Z,12.897,124.319,10,6,mwc,232,32.3,,1.22,us,usp000geqv,2017-04-26T18:08:28.353Z,"Samar, Philippines",earthquake,,,,,reviewed,us,gcmt
+2008-07-13T14:58:33.010Z,21.014,121.149,14,6.2,mwc,243,40.8,,1.17,us,usp000gc2b,2016-11-10T01:58:41.861Z,"Taiwan region",earthquake,,,,,reviewed,us,gcmt
+2008-06-01T01:57:23.690Z,20.124,121.35,31,6.3,mwc,528,21.4,,0.86,us,usp000g88u,2016-11-10T01:56:44.242Z,"Batan Islands region, Philippines",earthquake,,,,,reviewed,us,gcmt
+2008-03-20T14:10:40.400Z,6.192,126.934,45,6.1,mwb,287,19.2,,1.05,us,usp000g1v5,2016-11-10T01:53:16.982Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+2008-03-03T14:11:14.620Z,13.351,125.63,24,6.9,mwc,544,25.9,,0.94,us,usp000g0k9,2017-04-26T18:07:55.466Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+2008-03-03T13:49:40.420Z,19.913,121.334,10,6,mwc,418,23,,0.89,us,usp000g0k8,2016-11-10T01:52:40.010Z,"Babuyan Islands region, Philippines",earthquake,,,,,reviewed,us,gcmt
+2007-08-20T13:46:17.410Z,6.134,127.381,8,6.4,mwc,587,17.9,,1.02,us,usp000fk9n,2016-11-10T01:44:09.760Z,"Philippine Islands region",earthquake,,,,,reviewed,us,gcmt
+2007-02-12T12:45:31.700Z,5.561,126.073,24,6.1,mwc,309,31.9,,1.25,us,usp000f4qy,2016-11-10T01:35:27.199Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,gcmt
+2006-12-26T12:26:21.140Z,21.799,120.547,10,7.1,mwb,744,29.1,,1,us,usp000f114,2017-11-13T17:24:00.602Z,"Taiwan region",earthquake,,,,,reviewed,us,us
+2006-10-24T03:03:45.280Z,4.898,125.295,10,6.1,mwb,167,50.2,,1.33,us,usp000evwc,2016-11-10T01:30:06.566Z,"Kepulauan Sangihe, Indonesia",earthquake,,,,,reviewed,us,us
+2006-10-09T10:01:47.400Z,20.654,120.023,14,6.3,mwc,451,30.2,,0.88,us,usp000eus2,2016-11-10T01:29:28.735Z,"Philippine Islands region",earthquake,,,,,reviewed,us,gcmt
+2005-11-30T16:53:42.470Z,6.27,124.029,13,6.4,mwc,178,24.8,,1.12,us,usp000e583,2017-04-26T18:05:11.514Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+2005-02-15T14:42:25.850Z,4.756,126.421,39.7,6.5,mwc,286,47.3,,0.98,us,usp000dg73,2017-10-16T22:23:26.203Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,reviewed,us,hrv
+2005-02-05T12:23:18.940Z,5.293,123.337,525,7.1,mwc,640,26.4,,1.14,us,usp000dfj2,2017-11-08T18:25:13.163Z,"Celebes Sea",earthquake,,,,,reviewed,us,hrv
+2004-10-08T14:36:06.110Z,13.925,120.534,105,6.5,mwb,526,18.3,,0.95,us,usp000d60h,2017-04-26T18:03:00.496Z,"Mindoro, Philippines",earthquake,,,,,reviewed,us,us
+2004-09-15T19:10:50.600Z,14.22,120.411,115.4,6,mwb,452,28.5,,0.82,us,usp000d4bh,2016-11-10T00:45:56.137Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,us
+2003-11-18T17:14:22.620Z,12.025,125.416,35,6.5,mwb,487,45.9,,0.94,us,usp000cdb4,2017-04-26T18:02:08.612Z,"Samar, Philippines",earthquake,,,,,reviewed,us,us
+2003-10-09T22:19:13.850Z,13.755,119.939,33,6.2,mwb,311,43.4,,0.84,us,usp000ca12,2017-04-26T18:02:01.008Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+2003-07-01T17:00:22.820Z,12.803,124.898,33,6,mwc,263,32.9,,1.09,us,usp000c1ej,2017-04-26T18:01:33.078Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+2003-07-01T05:52:25.920Z,4.529,122.511,635.4,6,mwb,365,36.8,,1.02,us,usp000c1d9,2016-11-10T00:39:12.406Z,"Celebes Sea",earthquake,,,,,reviewed,us,us
+2003-06-26T14:11:44.590Z,12.253,123.85,10,6,mwb,94,80.4,,1.15,us,usp000c10k,2017-04-26T18:01:32.535Z,"Masbate region, Philippines",earthquake,,,,,reviewed,us,us
+2003-05-26T23:13:29.720Z,6.761,123.707,565.8,6.9,mwc,544,20.6,,0.97,us,usp000by7z,2016-11-10T00:36:02.642Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+2003-02-15T11:01:59.860Z,12.168,124.079,10,6.3,mwc,246,,,1.4,us,usp000bqr6,2017-04-26T18:01:08.585Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+2003-01-06T23:43:50.840Z,15.651,119.658,10,6,mwb,148,,,1.03,us,usp000bn63,2016-11-09T21:36:33.034Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,us
+2002-12-30T04:49:08.690Z,7.471,123.407,10,6.3,mwc,138,,,1.26,us,usp000bmq9,2017-04-26T18:01:00.963Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+2002-10-12T23:43:12.850Z,15.096,118.504,33,6.1,mwb,251,,,1.14,us,usp000bedp,2016-11-10T00:48:41.270Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+2002-03-08T18:27:53.190Z,5.871,124.274,23.3,6,mwb,166,,,0.89,us,usp000azy8,2016-11-09T22:02:02.502Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+2002-03-05T21:16:09.130Z,6.033,124.249,31,7.5,mwc,321,,,0.95,us,usp000azqw,2018-10-17T19:44:35.157Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+2002-01-01T11:29:22.730Z,6.303,125.65,138.1,6.3,mwc,236,,,0.9,us,usp000avmy,2016-11-10T00:22:15.664Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+2001-01-02T07:30:03.780Z,6.749,126.809,33,6.4,mwc,161,,,0.89,us,usp000a729,2016-11-10T00:22:21.664Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+2001-01-01T08:54:31.580Z,6.631,126.899,33,6.8,mwc,64,,,0.94,us,usp000a70q,2017-04-26T17:58:12.787Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+2001-01-01T06:57:04.170Z,6.898,126.579,33,7.5,mwc,324,,,1.06,us,usp000a70h,2017-11-07T16:40:53.714Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+2000-10-05T20:06:14.020Z,6.853,126.822,87.3,6.1,mwc,152,,,0.91,us,usp000a1ag,2016-11-09T23:38:47.421Z,"Mindanao, Philippines",earthquake,,4.1,,,reviewed,us,hrv
+2000-07-16T03:21:45.530Z,20.253,122.043,33,6.4,mwc,304,,,1.21,us,usp0009wkm,2017-04-26T17:57:27.304Z,"Batan Islands region, Philippines",earthquake,,,,,reviewed,us,hrv
+2000-01-06T21:31:06.220Z,16.095,119.484,33,6.2,mwc,,,,1.51,us,usp0009kub,2016-11-10T00:22:44.490Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,hrv
+1999-12-11T18:03:36.450Z,15.766,119.74,33,7.3,mwc,,,,1,us,usp0009jr8,2017-04-26T17:56:40.750Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,hrv
+1999-06-18T10:55:25.750Z,5.514,126.639,33,6.4,mwc,,,,0.87,us,usp0009a3f,2016-11-10T00:38:02.577Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1999-03-04T08:52:01.900Z,5.397,121.937,33,7.1,mwc,,,,1.17,us,usp00093u0,2017-04-26T17:55:39.703Z,"Sulu Archipelago, Philippines",earthquake,,,,,reviewed,us,hrv
+1999-02-06T17:45:24.470Z,19.2,121.265,33,6,mwc,,,,0.89,us,usp00092ck,2016-11-10T00:25:31.047Z,"Babuyan Islands region, Philippines",earthquake,,,,,reviewed,us,hrv
+1998-09-02T08:37:29.910Z,5.41,126.764,50,6.8,mwc,,,,1.01,us,usp0008u8z,2016-11-10T00:44:47.723Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1998-08-23T05:36:12.920Z,14.697,120.046,70.1,6.1,mwb,,,,0.9,us,usp0008tqv,2017-04-26T17:54:58.412Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,us
+1998-07-24T18:44:04.410Z,21.254,122.019,33,6.1,mwc,,,,1.51,us,usp0008s41,2016-11-10T00:41:07.509Z,"Taiwan region",earthquake,,,,,reviewed,us,hrv
+1998-05-23T17:44:47.770Z,8.138,123.726,657.8,6,mwc,,,,0.82,us,usp0008nmf,2016-11-10T00:35:50.765Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1997-10-06T12:30:05.820Z,9.79,125.779,105.6,6.5,mwb,,,,0.99,us,usp00088mv,2017-04-26T17:54:00.579Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1997-09-15T13:05:42.700Z,8.098,126.642,50.7,6.2,mwb,,,,1.02,us,usp00087jx,2016-11-10T00:45:59.900Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1997-05-22T13:21:36.350Z,18.915,121.336,33.9,6.1,mwc,,,,1.04,us,usp00082q0,2016-11-10T00:35:42.538Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,hrv
+1997-03-11T19:22:00.130Z,7.742,127.647,10,6.9,mwb,,,,1.2,us,usp0007yp6,2016-11-10T00:28:29.479Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+1996-11-07T06:10:16.710Z,9.785,126.34,33,6.1,mwc,,,,1.49,us,usp0007sk7,2017-04-26T17:52:42.071Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1996-11-05T12:29:45.960Z,9.756,126.36,33,6,mwc,,,,0.97,us,usp0007sfq,2016-11-09T23:53:49.171Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1996-10-17T16:15:25.750Z,5.704,125.945,116.8,6,mwc,,,,1.13,us,usp0007rjs,2016-11-09T23:44:35.669Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1996-10-02T09:48:01.560Z,11.761,125.484,33,6.4,mwc,,,,1.05,us,usp0007qun,2017-04-26T17:52:30.794Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+1996-09-28T14:10:42.450Z,10.038,125.369,234.8,6.3,mwc,,,,1.05,us,usp0007qmz,2016-11-10T00:47:15.709Z,"Leyte, Philippines",earthquake,,4.5,,,reviewed,us,hrv
+1996-09-20T12:24:42.120Z,9.446,126.544,33,6.1,mwb,,,,1.34,us,usp0007q5m,2016-11-10T00:46:25.897Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1996-09-20T04:11:04.550Z,9.454,126.334,33,6.6,mwc,,,,1.06,us,usp0007q51,2017-04-26T17:52:27.320Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1996-09-20T04:10:27.680Z,9.463,126.284,33,6.6,mwc,,,,1.13,us,usp0007q50,2017-04-26T17:52:26.732Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1996-09-20T00:03:18.370Z,9.597,126.293,33,6.4,mwc,,,,1.21,us,usp0007q4r,2017-04-26T17:52:26.146Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1996-07-30T17:38:30.710Z,14.509,119.954,33,6.1,mwb,,,,1,us,usp0007mvm,2016-11-10T00:41:36.544Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,us
+1996-06-14T15:04:40.740Z,12.811,125.055,28.8,6.1,mwc,,,,1.2,us,usp0007jrm,2017-04-26T17:52:03.574Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+1996-06-11T18:22:55.730Z,12.614,125.154,33,7.1,mwc,,,,0.9,us,usp0007jkw,2017-04-26T17:52:02.375Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+1996-01-27T17:48:09.380Z,9.187,126.416,33,6,mw,,,,1,us,usp0007bun,2016-11-09T21:45:43.111Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1995-05-08T18:08:06.290Z,11.465,125.962,12,6.4,mw,,,,1.1,us,usp0006x32,2017-04-26T17:50:23.148Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+1995-05-05T04:39:10.630Z,12.637,125.238,33,6.1,ms,,,,0.9,us,usp0006wwb,2017-04-26T17:50:21.181Z,"Samar, Philippines",earthquake,,,,3,reviewed,us,us
+1995-05-05T03:53:45.050Z,12.626,125.297,16,7.1,mw,,,,0.9,us,usp0006ww5,2017-04-26T17:50:20.494Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+1995-04-29T09:43:57.770Z,11.853,125.982,15,6.1,mwb,,,,1.1,us,usp0006whs,2016-11-09T22:24:49.004Z,"Samar, Philippines",earthquake,,,,,reviewed,us,us
+1995-04-23T06:38:11.200Z,5.954,123.818,530.5,6.1,mw,,,,1.2,us,usp0006w67,2016-11-09T22:22:02.524Z,"Celebes Sea",earthquake,,,,,reviewed,us,hrv
+1995-04-23T05:08:01.970Z,12.39,125.396,24.1,6.8,mw,,,,1,us,usp0006w5w,2017-04-26T17:50:14.997Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+1995-04-21T05:17:01.330Z,12.047,125.92,27.4,6.8,mw,,,,1.1,us,usp0006w0m,2017-04-26T17:50:14.311Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+1995-04-21T00:34:46.090Z,12.059,125.58,20.7,7.2,mw,,,,1.2,us,usp0006vz9,2017-04-26T17:50:13.630Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+1995-04-21T00:30:10.820Z,11.925,125.564,17.4,6.8,mw,,,,1,us,usp0006vz8,2017-04-26T17:50:12.936Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+1995-04-21T00:09:54.360Z,12.011,125.656,20.1,6.9,mw,,,,1,us,usp0006vz4,2017-04-26T17:50:12.276Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+1995-04-21T00:02:48.410Z,11.973,125.688,27.6,6,mw,,,,0.9,us,usp0006vz3,2017-04-26T17:50:11.619Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+1995-04-20T08:45:11.670Z,6.279,126.777,94.1,6.6,mwb,,,,1.1,us,usp0006vxw,2016-11-10T00:32:01.806Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1995-02-19T00:17:45.190Z,5.244,126.265,75.8,6,mw,,,,1.1,us,usp0006t5t,2016-11-09T21:55:07.827Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1994-11-14T19:15:30.660Z,13.525,121.067,31.5,7.1,mw,,,,1.1,us,usp0006nn2,2017-04-26T17:49:42.681Z,"Mindoro, Philippines",earthquake,,,,,reviewed,us,hrv
+1994-10-12T06:43:39.730Z,13.773,124.529,15.7,6.4,mwb,,,,1.2,us,usp0006m04,2017-04-26T17:49:38.246Z,"Catanduanes, Philippines",earthquake,,,,,reviewed,us,us
+1994-06-09T16:22:22.090Z,13.259,124.281,75.9,6.2,mw,,,,1.1,us,usp0006e0f,2016-11-09T22:43:06.214Z,"Catanduanes, Philippines",earthquake,,,,,reviewed,us,hrv
+1994-04-27T14:11:45.150Z,13.074,119.545,9.7,6,mw,,,,1.1,us,usp0006br0,2016-11-09T22:23:56.337Z,"Philippine Islands region",earthquake,,,,,reviewed,us,hrv
+1993-12-10T08:59:35.820Z,20.912,121.282,12,6.1,mwb,,,,0.9,us,usp00064xw,2016-11-10T00:10:31.423Z,"Batan Islands region, Philippines",earthquake,,,,,reviewed,us,us
+1993-05-18T10:19:33.780Z,19.914,122.45,168.6,6.8,mwb,,,,1.3,us,usp0005t13,2016-11-10T00:35:17.232Z,"Babuyan Islands region, Philippines",earthquake,,,,,reviewed,us,us
+1993-05-11T18:26:51.320Z,7.219,126.57,58.7,7,mwb,,,,1.1,us,usp0005sm4,2017-04-26T17:47:41.418Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1992-10-29T07:29:57.640Z,6.834,124.006,33,6.2,mw,,,,1.1,us,usp0005g11,2017-04-26T17:47:13.615Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1992-05-17T10:15:31.310Z,7.191,126.762,33,7.3,mwb,,,,1.1,us,usp00057gv,2017-04-26T17:46:41.606Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1992-05-17T09:49:19.110Z,7.239,126.645,32.8,7.1,mw,,,,1.2,us,usp00057gu,2017-04-26T17:46:40.995Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1992-03-19T06:34:25.860Z,17.155,120.827,15.4,6.3,mwb,,,,1.2,us,usp00054g6,2017-04-26T17:46:27.083Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,us
+1991-11-21T12:38:28.570Z,5.782,126.832,73.3,6.3,mwb,,,,1.2,us,usp0004ze3,2016-11-10T00:52:50.138Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1991-11-13T11:12:13.240Z,8.361,126.371,35.9,6.8,mwb,,,,1.2,us,usp0004z3m,2017-04-26T17:46:10.189Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1991-06-15T23:02:14.370Z,10.098,125.855,71,6.1,mw,,,,1.1,us,usp0004t09,2017-04-26T17:45:47.123Z,"Leyte, Philippines",earthquake,,4.1,,,reviewed,us,hrv
+1991-04-24T04:57:14.890Z,9.041,126.739,13.8,6.3,mw,,,,1.2,us,usp0004qrk,2016-11-09T22:22:27.383Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1991-03-26T03:58:23.260Z,21.704,121.789,17.7,6.3,mw,,,,1.2,us,usp0004php,2016-11-10T00:30:00.690Z,"Taiwan region",earthquake,,,,,reviewed,us,hrv
+1991-02-18T02:37:25.120Z,8.87,126.48,23.9,7,mw,,,,1.3,us,usp0004n2a,2017-04-26T17:45:18.456Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,nc
+1990-10-25T11:01:38.720Z,8.307,126.462,44.1,6.5,mw,,,,1.1,us,usp0004g51,2017-04-26T17:44:46.758Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,nc
+1990-07-17T21:14:43.860Z,16.495,120.981,23.1,6.5,mw,,,,1.3,us,usp0004c36,2017-04-26T17:44:29.357Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,hrv
+1990-07-17T18:06:35.330Z,16.433,120.838,18.3,6.1,mw,,,,1.3,us,usp0004c30,2017-04-26T17:44:28.758Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,hrv
+1990-07-16T07:26:34.610Z,15.679,121.172,25.1,7.7,mw,,,,1.1,us,usp0004bxs,2017-04-26T17:44:26.900Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,hrv
+1990-06-14T07:40:56.210Z,11.76,121.899,18.1,7.1,mw,,,,1.2,us,usp0004ag6,2017-04-26T17:44:20.092Z,"Panay, Philippines",earthquake,,,,,reviewed,us,hrv
+1990-02-08T07:46:59.780Z,9.725,124.625,30.3,6.6,mw,,,,1.2,us,usp000456m,2017-04-26T17:43:37.796Z,"Bohol, Philippines",earthquake,,,,,reviewed,us,hrv
+1990-02-08T07:15:32.230Z,9.755,124.694,25.9,6.8,mw,,,,1.4,us,usp000456h,2017-04-26T17:43:37.192Z,"Bohol, Philippines",earthquake,,,,,reviewed,us,hrv
+1989-12-20T00:08:20.610Z,8.094,126.828,21,6.5,mw,,,,1.2,us,usp00043a9,2017-04-26T17:43:31.629Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1989-12-15T18:53:38.220Z,8.397,126.485,33,6,mb,,,,1,us,usp000433k,2014-11-07T00:45:21.331Z,"Mindanao, Philippines",earthquake,,,,14,reviewed,us,us
+1989-12-15T18:43:45.030Z,8.337,126.729,24.4,7.6,mw,,,,1.4,us,usp000433j,2017-04-26T17:43:31.020Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1989-12-08T10:23:12.560Z,10.094,126.495,43.7,6.2,mw,,,,1.1,us,usp00042vc,2016-11-10T00:09:34.190Z,"Philippine Islands region",earthquake,,6,,,reviewed,us,hrv
+1989-08-10T01:55:57.210Z,5.898,124.424,55.8,6.1,mw,,,,1.3,us,usp0003ya4,2017-04-26T17:43:03.634Z,"Mindanao, Philippines",earthquake,,6.3,,,reviewed,us,hrv
+1988-11-17T06:55:46.060Z,12.399,124.537,19.3,6.6,mw,,,,1.5,us,usp0003nxq,2017-04-26T17:42:26.879Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+1988-08-15T09:59:24.070Z,8.757,126.341,52,6.1,mw,,,,1.3,us,usp0003k0t,2017-04-26T17:42:13.183Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1988-07-11T00:12:35.330Z,5.368,126.612,66.9,6,mw,,,,1.2,us,usp0003hs0,2016-11-09T22:57:52.256Z,"Mindanao, Philippines",earthquake,,5,,,reviewed,us,hrv
+1988-06-19T20:19:52.690Z,12.376,121.067,16.7,6.2,mw,,,,1.4,us,usp0003h43,2017-04-26T17:42:04.242Z,"Mindoro, Philippines",earthquake,,,,,reviewed,us,hrv
+1988-02-24T03:52:03.290Z,13.477,124.616,24.9,7.3,mw,,,,1,us,usp0003da3,2017-04-26T17:41:47.523Z,"Catanduanes, Philippines",earthquake,,,,,reviewed,us,hrv
+1988-01-28T11:20:08.160Z,5.327,126.369,43.6,6.1,mw,,,,1.3,us,usp0003cgy,2016-11-09T21:46:00.688Z,"Mindanao, Philippines",earthquake,,5.7,,,reviewed,us,hrv
+1987-11-18T16:27:05.270Z,12.845,124.77,22.2,6.4,mw,,,,1,us,usp0003a8a,2017-04-26T17:41:30.807Z,"Samar, Philippines",earthquake,,,,,reviewed,us,hrv
+1987-11-07T16:23:55.900Z,5.634,126.614,80,6.2,mw,,,,1,us,usp00039yn,2016-11-09T01:01:06.876Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,nc
+1987-10-29T20:23:41.000Z,4.817,127.688,152.9,6.8,mw,,,,1.1,us,usp00039qx,2016-11-10T00:50:24.509Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,reviewed,us,hrv
+1987-06-14T05:07:26.870Z,10.429,126.147,13.1,6.2,mw,,,,1.1,us,usp00035sc,2016-11-09T22:45:34.978Z,"Philippine Islands region",earthquake,,,,,reviewed,us,hrv
+1987-06-07T05:49:43.630Z,20.429,121.366,14.8,6.3,mw,,,,0.9,us,usp00035kr,2016-11-10T00:37:04.599Z,"Batan Islands region, Philippines",earthquake,,,,,reviewed,us,hrv
+1987-06-06T18:40:27.480Z,10.672,126.115,14.4,6.5,mw,,,,1.2,us,usp00035k6,2017-04-26T17:41:05.286Z,"Philippine Islands region",earthquake,,,,,reviewed,us,hrv
+1987-06-05T21:25:11.230Z,5.381,127.534,45.1,6.1,mw,,,,1.3,us,usp00035j7,2016-11-09T22:41:25.794Z,"Philippine Islands region",earthquake,,7.7,,,reviewed,us,hrv
+1987-05-18T07:27:00.210Z,8.302,125.362,16.4,6.3,mw,,,,1.3,us,usp000353c,2017-04-26T17:41:02.392Z,"Mindanao, Philippines",earthquake,,11.9,,,reviewed,us,hrv
+1987-05-12T01:30:25.030Z,7.09,126.701,24.7,6.7,mw,,,,1.1,us,usp00034xs,2017-04-26T17:40:59.899Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,nc
+1987-04-25T12:16:52.440Z,16.066,120.301,107,6.9,mw,,,,0.9,us,usp00034f9,2017-04-26T17:40:55.133Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,nc
+1987-02-11T06:12:53.390Z,18.831,120.981,23.5,6,mw,,,,1.3,us,usp00032ct,2016-11-09T21:51:21.576Z,"Luzon, Philippines",earthquake,,4.4,,,reviewed,us,hrv
+1986-06-17T18:13:11.550Z,5.644,125.259,31.9,6.6,mw,,,,1.3,us,usp0002v4y,2017-04-26T17:39:55.032Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,nc
+1986-06-17T10:38:17.260Z,5.776,126.742,33,6,mw,,,,1,us,usp0002v4j,2016-11-09T22:46:55.922Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1986-06-03T14:40:09.770Z,10.378,125.964,67,6.1,mw,,,,1.1,us,usp0002urh,2016-11-09T22:40:27.712Z,"Leyte, Philippines",earthquake,,3.2,,,reviewed,us,hrv
+1986-05-08T14:37:35.930Z,4.627,125.499,165.5,6.4,mw,,,,1.2,us,usp0002trj,2016-11-09T22:28:34.738Z,"Kepulauan Sangihe, Indonesia",earthquake,,2.1,,,reviewed,us,hrv
+1986-02-19T11:40:27.550Z,18.945,121.304,77.4,6,mw,,,,1.1,us,usp0002r49,2016-11-09T21:54:56.675Z,"Luzon, Philippines",earthquake,,3.3,,,reviewed,us,hrv
+1985-08-09T19:59:44.070Z,16.9,120.186,21.7,6.1,mw,,,,1.1,us,usp0002hj2,2017-04-26T17:39:06.443Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,hrv
+1985-08-04T02:36:23.870Z,7.496,123.5,35.6,6.4,mw,,,,1.2,us,usp0002hbr,2017-04-26T17:39:04.639Z,"Mindanao, Philippines",earthquake,,6.2,,,reviewed,us,hrv
+1985-06-04T03:56:27.060Z,4.873,127.481,94.2,6.2,mw,,,,0.9,us,usp0002fgt,2016-11-09T22:40:54.983Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,reviewed,us,hrv
+1985-04-24T01:07:14.510Z,16.498,120.815,33,6.1,mw,,,,1.3,us,usp0002e3e,2017-04-26T17:38:51.074Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,hrv
+1985-04-23T16:15:12.020Z,15.344,120.61,188.4,7,mw,,,,1.1,us,usp0002e2z,2017-04-26T17:38:50.460Z,"Luzon, Philippines",earthquake,,2,,,reviewed,us,nc
+1985-03-18T19:49:45.840Z,7.758,123.544,33,6.5,mw,,,,1.1,us,usp0002d0r,2017-04-26T17:38:42.411Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1984-11-20T08:15:16.230Z,5.167,125.124,202.2,7.5,mw,,,,1.3,us,usp000297p,2017-04-26T17:38:17.589Z,"Mindanao, Philippines",earthquake,,2.6,,,reviewed,us,hrv
+1984-10-29T23:18:05.180Z,5.731,125.543,153.2,6.6,mw,,,,1.1,us,usp00028mq,2016-11-09T23:50:20.169Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,hrv
+1984-03-05T03:33:50.990Z,8.147,123.762,649.1,7.3,mw,,,,0.9,us,usp00022es,2016-11-10T00:27:50.591Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,nc
+1983-08-27T18:49:48.430Z,8.171,125.946,20.5,6,ms,,,,1.3,us,usp0001xzd,2017-04-26T17:36:54.460Z,"Mindanao, Philippines",earthquake,,,,17,reviewed,us,us
+1983-08-17T12:17:56.010Z,18.231,120.86,28.8,6.5,ms,,,,1.1,us,usp0001xr0,2017-04-26T17:36:51.907Z,"Luzon, Philippines",earthquake,,,,7,reviewed,us,us
+1983-08-02T02:17:41.030Z,20.435,122.101,157.9,6.3,mw,,,,1.1,us,usp0001x9n,2016-11-09T23:07:49.200Z,"Batan Islands region, Philippines",earthquake,,,,,reviewed,us,nc
+1983-07-14T19:47:46.530Z,5.557,126.452,43,6.3,mw,,,,1.1,us,usp0001wtb,2016-11-09T22:59:06.236Z,"Mindanao, Philippines",earthquake,,2.3,,,reviewed,us,nc
+1983-03-15T19:58:30.450Z,5.346,126.566,41,6.7,mw,,,,1.3,us,usp0001tp6,2016-11-10T00:28:46.984Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,nc
+1983-02-20T10:49:54.110Z,5.546,126.246,60.5,6.4,mw,,,,1.2,us,usp0001t6s,2016-11-09T00:03:56.029Z,"Mindanao, Philippines",earthquake,,2,,,reviewed,us,nc
+1983-02-12T08:47:12.740Z,5.669,126.297,51,6.3,mw,,,,1.2,us,usp0001sz9,2016-11-09T21:51:43.237Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,nc
+1982-12-28T13:49:29.000Z,19.945,121.397,34,6,mb,,,,0.9,us,usp0001ru1,2016-11-10T00:18:36.309Z,"Babuyan Islands region, Philippines",earthquake,,,,97,reviewed,us,us
+1982-04-17T09:20:57.860Z,19.871,120.526,10.3,6.2,mb,,,,0.9,us,usp0001ksn,2016-11-09T22:19:20.712Z,"Babuyan Islands region, Philippines",earthquake,,1.2,,94,reviewed,us,us
+1982-01-24T06:08:56.660Z,14.085,124.347,37.2,6.4,ms,,,,1.2,us,usp0001j95,2017-04-26T17:35:21.578Z,"Catanduanes, Philippines",earthquake,,3.4,,18,reviewed,us,us
+1982-01-11T06:10:06.490Z,13.752,124.358,45.7,7.1,ms,,,,1.1,us,usp0001hze,2017-04-26T17:35:16.039Z,"Catanduanes, Philippines",earthquake,,3.7,,19,reviewed,us,us
+1981-11-22T15:05:20.560Z,18.752,120.839,24,6.5,ms,,,,1,us,usp0001h39,2017-04-26T17:35:12.358Z,"Luzon, Philippines",earthquake,,,,15,reviewed,us,us
+1981-09-04T11:15:13.610Z,9.964,124.035,644.5,6,mb,,,,0.9,us,usp0001fp1,2016-11-08T23:48:29.247Z,"Bohol, Philippines",earthquake,,1.2,,52,reviewed,us,us
+1981-09-04T11:14:15.000Z,11.05,123.21,33,6.6,mwc,,,,,gcmt,gcmtc090481a,2016-11-10T00:44:59.157Z,"Visayan Sea, Philippines",earthquake,,,,,automatic,gcmt,gcmt
+1981-05-13T01:39:54.820Z,5.829,127.008,145,6,mb,,,,1,us,usp0001dn5,2016-11-09T22:30:41.821Z,"Philippine Islands region",earthquake,,,,50,reviewed,us,us
+1980-10-26T05:14:19.100Z,11.751,125.502,48,6.1,ms,,,,,us,usp0001afz,2017-04-26T17:34:14.382Z,"Samar, Philippines",earthquake,,,,,reviewed,us,us
+1980-06-18T17:14:54.500Z,9.475,126.657,54,6.8,ms,,,,,us,usp00018ad,2017-04-26T17:33:56.785Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1980-06-09T13:14:21.400Z,9.754,126.64,19,6,ms,,,,,us,usp0001829,2014-11-06T23:24:23.053Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1980-03-31T12:41:47.700Z,16.129,121.962,43,6.3,ms,,,,,us,usp00016ce,2017-04-26T17:33:44.289Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,us
+1980-02-29T11:13:26.700Z,6.299,126.881,104,6.1,mb,,,,,us,usp00015rx,2016-11-10T00:27:26.152Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1980-01-02T20:58:44.200Z,5.984,126.188,63,6,mb,,,,,us,usp00014ud,2017-04-26T17:33:30.850Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1979-11-19T22:17:20.200Z,5.861,125.295,85,6.1,mb,,,,,us,usp000143h,2017-04-26T17:33:21.081Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1979-08-26T14:31:22.100Z,19.066,122.096,15,7.1,ms,,,,,us,usp00012mz,2017-04-26T17:33:02.005Z,"Babuyan Islands region, Philippines",earthquake,,,,,reviewed,us,us
+1979-05-01T00:39:30.900Z,9.33,125.614,23,6,ms,,,,,us,usp00010cy,2017-04-26T17:32:42.535Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1979-02-11T22:22:20.900Z,5.987,125.919,142,6.1,mb,,,,,us,usp0000yt3,2016-11-09T21:51:17.348Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1979-02-07T21:02:06.800Z,5.21,127.295,129,6.2,mb,,,,,us,usp0000yra,2016-11-09T21:49:32.353Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+1978-12-12T11:44:16.000Z,7.33,123.492,33,6.9,ms,,,,,us,usp0000xwj,2017-04-26T17:32:20.270Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1978-06-16T07:57:00.100Z,7.861,126.321,139,6,mb,,,,,us,usp0000v30,2016-11-10T00:37:48.658Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1978-06-14T12:32:33.900Z,8.249,122.403,24,6.9,ms,,,,,us,usp0000v1t,2017-04-26T17:31:47.808Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1978-04-18T17:27:30.600Z,5.142,127.41,128,6,mb,,,,,us,usp0000u5g,2016-11-10T00:31:51.062Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+1978-01-06T04:41:22.200Z,18.793,121.895,33,6,ms,,,,,us,usp0000scj,2017-04-26T17:31:23.491Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,us
+1977-08-29T14:23:40.500Z,17.441,119.869,12,6.2,ms,,,,,us,usp0000qcw,2017-04-26T17:30:58.863Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+1977-07-21T13:45:54.000Z,16.882,122.361,33,6.9,ms,,,,,us,usp0000pts,2017-04-26T17:30:53.043Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,us
+1977-03-18T21:43:52.400Z,16.773,122.327,37,7,ms,,,,,us,usp0000myv,2017-04-26T17:30:33.547Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,us
+1977-03-02T09:53:23.200Z,6.772,123.74,52,6.1,ms,,,,,us,usp0000mse,2017-04-26T17:30:29.532Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1976-11-22T04:22:25.300Z,7.029,123.579,60,6,mb,,,,,us,usp0000ke3,2016-11-10T00:01:19.700Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1976-11-07T17:09:06.100Z,8.478,126.375,60,6.8,ms,,,,,us,usp0000k85,2017-04-26T17:30:13.740Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1976-09-29T21:02:32.700Z,6.922,124.069,41,6,mb,,,,,us,usp0000jpp,2016-11-10T00:47:21.618Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1976-08-17T04:19:27.300Z,7.249,122.939,22,6.8,ms,,,,,us,usp0000hw4,2017-04-26T17:29:57.221Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1976-08-17T01:11:10.200Z,10.063,125.866,34,6,mb,,,,,us,usp0000hw0,2017-04-26T17:29:56.576Z,"Leyte, Philippines",earthquake,,,,,reviewed,us,us
+1976-08-16T16:11:07.300Z,6.262,124.023,33,7.9,ms,,,,,us,usp0000hvb,2017-04-26T17:29:55.948Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1976-07-26T02:56:39.300Z,4.956,118.308,33,6.2,ms,,,,,us,usp0000hhh,2017-04-26T17:29:49.001Z,"Sabah, Malaysia",earthquake,,,,,reviewed,us,us
+1976-06-07T07:36:55.400Z,14.087,124.829,33,6.4,ms,,,,,us,usp0000gs3,2017-04-26T17:29:36.254Z,"Catanduanes, Philippines",earthquake,,,,,reviewed,us,us
+1976-02-15T01:54:23.100Z,13,125.788,33,6.1,ms,,,,,us,usp0000f2f,2016-11-10T00:26:16.466Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+1975-11-15T20:39:25.900Z,12.946,125.91,11,6.1,mb,,,,,us,usp0000dkz,2015-05-13T18:53:11.000Z,"Samar, Philippines",earthquake,,,,,reviewed,us,us
+1975-11-06T12:36:14.500Z,12.549,126.073,11,6.1,mb,,,,,us,usp0000df9,2015-05-13T18:53:11.000Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+1975-10-31T08:28:02.600Z,12.54,125.993,50,7.2,ms,,,,,us,usp0000dc1,2017-04-26T17:28:53.747Z,"Samar, Philippines",earthquake,,,,,reviewed,us,us
+1975-10-26T10:41:31.900Z,6.578,126.834,50,6.1,ms,,,,,us,usp0000da1,2015-05-13T18:53:11.000Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1975-10-21T23:06:22.800Z,11.661,121.646,33,6.3,ms,,,,,us,usp0000d7x,2017-04-26T17:28:50.626Z,"Panay, Philippines",earthquake,,,,,reviewed,us,us
+1975-10-21T17:12:23.700Z,11.707,121.75,33,6.1,ms,,,,,us,usp0000d7q,2017-04-26T17:28:50.012Z,"Panay, Philippines",earthquake,,,,,reviewed,us,us
+1975-08-23T15:06:39.000Z,10.013,125.791,40,6,mb,,,,,us,usp0000ck1,2015-05-13T18:53:11.000Z,"Leyte, Philippines",earthquake,,,,,reviewed,us,us
+1975-07-10T18:29:16.000Z,6.507,126.642,86,6.2,mb,,,,,us,usp0000byv,2015-05-13T18:53:10.000Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1974-02-19T03:30:21.800Z,13.909,122.116,17,6.1,ms,,,,,us,usp00005bf,2017-04-26T17:27:31.577Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,us
+1973-09-20T20:43:39.800Z,9.048,123.789,560,6,mb,,,,,us,usp00003g4,2015-05-13T18:53:08.000Z,"Negros - Cebu region, Philippines",earthquake,,,,,reviewed,us,us
+1973-08-18T08:25:44.100Z,11.511,121.389,14,6.1,ms,,,,,us,usp0000344,2017-04-26T17:26:56.505Z,"Panay, Philippines",earthquake,,,,,reviewed,us,us
+1973-07-05T22:46:16.300Z,13.225,124.699,38,6,ms,,,,,us,usp00002jv,2015-05-13T18:53:08.000Z,"Catanduanes, Philippines",earthquake,,,,,reviewed,us,us
+1973-07-03T07:03:43.900Z,12.205,125.33,33,6.5,ms,,,,,us,usp00002h1,2017-04-26T17:26:49.003Z,"Samar, Philippines",earthquake,,,,,reviewed,us,us
+1973-07-03T06:37:34.400Z,12.271,125.433,44,6,ms,,,,,us,usp00002h0,2015-05-13T18:53:08.000Z,"Samar, Philippines",earthquake,,,,,reviewed,us,us
+1973-03-17T08:30:51.800Z,13.372,122.787,33,7,ms,,,,,us,usp00000z7,2017-04-26T17:26:38.136Z,"Luzon, Philippines",earthquake,,,,,reviewed,us,us
+1973-03-09T10:06:37.700Z,6.274,127.336,55,6,mb,,,,,us,usp00000vx,2015-05-13T18:53:07.000Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+1972-12-28T05:54:09.000Z,5.648,127.135,44.5,6,mw,,,,,iscgem,iscgem766762,2015-05-13T18:53:07.000Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1972-12-02T05:48:25.000Z,5.609,127.202,60,6.1,mw,,,,,iscgem,iscgem765522,2015-05-13T18:53:07.000Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1972-12-02T03:56:58.000Z,6.148,127.492,60,6,mw,,,,,iscgem,iscgem765515,2015-05-13T18:53:07.000Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1972-12-02T00:19:52.000Z,6.405,126.64,60,8,mw,,,,,iscgem,iscgem765501,2017-04-26T17:26:24.614Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1972-07-04T10:16:12.000Z,9.379,122.536,45,6,mw,,,,,iscgem,iscgem771290,2015-05-13T18:53:06.000Z,"Negros, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1972-05-22T06:04:02.000Z,16.552,122.189,35,6.9,mw,,,,,iscgem,iscgem773701,2017-04-26T17:25:51.948Z,"Luzon, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1972-05-17T05:27:53.000Z,13.393,120.036,26.4,6.2,mw,,,,,iscgem,iscgem773549,2015-05-13T18:53:06.000Z,"Mindoro, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1972-04-30T15:15:32.000Z,13.557,120.422,25,6,mw,,,,,iscgem,iscgem774926,2015-05-13T18:53:06.000Z,"Mindoro, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1972-04-27T01:29:34.000Z,13.603,120.634,25,6,mw,,,,,iscgem,iscgem774826,2015-05-13T18:53:06.000Z,"Mindoro, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1972-04-25T19:30:07.000Z,13.402,120.275,25,7.5,mw,,,,,iscgem,iscgem774772,2017-04-26T17:25:47.196Z,"Mindoro, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1972-02-08T03:37:49.000Z,19.319,122.067,15,6.1,mw,,,,,iscgem,iscgem776064,2015-05-13T18:53:06.000Z,"Babuyan Islands region, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1972-01-08T05:27:53.000Z,20.981,120.28,25,6.7,mw,,,,,iscgem,iscgem776783,2015-05-13T18:53:06.000Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-25T12:51:45.000Z,12.439,123.691,40,6.4,mw,,,,,iscgem,iscgem782654,2017-04-26T17:25:11.656Z,"Masbate region, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-02T05:34:28.000Z,12.36,123.899,25,6.1,mw,,,,,iscgem,iscgem781837,2017-04-26T17:25:02.539Z,"Masbate region, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-29T19:56:14.000Z,12.704,122.3,11.7,6,mw,,,,,iscgem,iscgem786031,2017-04-26T17:24:46.395Z,"Sibuyan Sea, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-16T20:35:21.000Z,8.417,127.216,58.5,6.1,mw,,,,,iscgem,iscgem786403,2015-05-13T18:53:05.000Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1970-11-13T14:16:23.000Z,12.081,123.863,13.5,6.5,mw,,,,,iscgem,iscgem790180,2017-04-26T17:24:07.266Z,"Masbate region, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1970-11-08T14:58:58.000Z,9.066,126.421,40,6.1,mw,,,,,iscgem,iscgem789999,2017-04-13T21:45:10.027Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1970-09-30T09:52:24.000Z,20.73,122.003,30,6,mw,,,,,iscgem,iscgem792436,2015-05-13T18:53:04.000Z,"Batan Islands region, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1970-04-15T13:14:25.000Z,15.219,122.624,25,6.2,mw,,,,,iscgem,iscgem796759,2015-05-13T18:53:04.000Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1970-04-12T04:01:46.000Z,15.136,122.064,22.5,6.9,mw,,,,,iscgem,iscgem796629,2017-04-26T17:23:36.680Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1970-04-08T21:23:58.000Z,15.457,121.723,25,6.5,mw,,,,,iscgem,iscgem796476,2017-04-26T17:23:36.017Z,"Luzon, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1970-04-07T05:34:06.000Z,15.791,121.63,25,7.4,mw,,,,,iscgem,iscgem796378,2017-04-26T17:23:34.685Z,"Luzon, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1970-03-30T16:46:44.000Z,6.754,126.451,50,6.8,mw,,,,,iscgem,iscgem798643,2017-04-26T17:23:33.999Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1970-03-04T14:27:49.000Z,7.273,126.891,35,6.1,mw,,,,,iscgem,iscgem797518,2015-05-13T18:53:03.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1970-02-06T02:17:34.000Z,12.687,121.924,25,6,mw,,,,,iscgem,iscgem798863,2015-05-13T18:53:03.000Z,"Mindoro, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1970-02-05T22:06:01.000Z,12.584,121.952,15,6.7,mw,,,,,iscgem,iscgem798855,2017-04-26T17:23:25.230Z,"Mindoro, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1970-01-11T05:02:05.000Z,7.326,126.857,45,6,mw,,,,,iscgem,iscgem799983,2015-05-13T18:53:03.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1970-01-10T12:07:07.000Z,6.785,126.682,40,7.2,mw,,,,,iscgem,iscgem799944,2017-04-26T17:23:23.239Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1969-05-26T15:37:21.000Z,11.793,125.786,30,6,mw,,,,,iscgem,iscgem809313,2015-05-13T18:53:03.000Z,"Samar, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1969-05-21T02:56:51.000Z,11.734,125.876,30,6,mw,,,,,iscgem,iscgem809164,2015-05-13T18:53:03.000Z,"Samar, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1969-03-27T12:41:40.000Z,4.575,127.609,50,6.6,mw,,,,,iscgem,iscgem811592,2015-05-13T18:53:02.000Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1969-03-20T16:18:55.000Z,8.697,127.217,20,6.1,mw,,,,,iscgem,iscgem811148,2015-05-13T18:53:02.000Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1969-02-03T21:41:43.000Z,4.738,127.374,35,6.8,mw,,,,,iscgem,iscgem811844,2015-05-13T18:53:02.000Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1969-01-30T10:29:41.000Z,4.569,127.306,60,7.6,mw,,,,,iscgem,iscgem813688,2017-04-13T21:43:46.674Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1968-11-25T18:36:57.000Z,5.122,126.847,50,6.4,mw,,,,,iscgem,iscgem815369,2015-05-13T18:53:02.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1968-11-22T08:59:27.000Z,16.209,122.262,35,6.1,mw,,,,,iscgem,iscgem815285,2017-04-13T21:43:40.272Z,"Luzon, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1968-10-24T15:51:17.000Z,5.909,127.031,45,6.3,mw,,,,,iscgem,iscgem816258,2015-05-13T18:53:02.000Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1968-08-28T20:42:19.000Z,15.51,122.058,20,6.4,mw,,,,,iscgem,iscgem818415,2017-04-13T21:43:24.853Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1968-08-04T11:41:25.000Z,6.498,126.777,100,6.1,mw,,,,,iscgem,iscgem817656,2015-05-13T18:53:02.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1968-08-03T06:25:05.000Z,16.475,122.23,25,6.4,mw,,,,,iscgem,iscgem817612,2017-04-13T21:43:22.430Z,"Luzon, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1968-08-01T20:19:22.000Z,16.316,122.067,25,7.6,mw,,,,,iscgem,iscgem817557,2017-04-13T21:43:20.961Z,"Luzon, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1968-03-05T18:38:05.000Z,9.526,126.196,35,6.1,mw,,,,,iscgemsup,iscgemsup824681,2015-07-13T17:02:24.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1968-03-05T18:16:38.000Z,9.507,126.415,35,6.3,mw,,,,,iscgem,iscgem824679,2015-05-13T18:53:01.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1967-08-19T15:28:07.000Z,10.295,125.881,35,6,mw,,,,,iscgem,iscgem832408,2015-05-13T18:53:01.000Z,"Leyte, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1966-08-21T05:00:25.000Z,8.48,126.645,35,6,mw,,,,,iscgem,iscgem844769,2015-05-13T18:53:00.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1966-08-15T02:45:36.000Z,13.295,121.467,19.8,6,mw,,,,,iscgem,iscgem844493,2017-04-13T21:42:17.316Z,"Mindoro, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1966-06-06T20:47:10.000Z,9.528,126.505,25,6,mw,,,,,iscgem,iscgem846202,2015-05-13T18:53:00.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1965-09-18T22:03:12.000Z,8.188,126.874,25,6,mw,,,,,iscgem,iscgem853952,2015-05-13T18:52:59.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1965-09-16T13:50:12.000Z,7.156,126.522,160,6,mw,,,,,iscgem,iscgem853881,2015-05-13T18:52:59.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1965-07-15T18:33:30.000Z,7.74,123.811,570,6,mw,,,,,iscgem,iscgem855394,2015-05-13T18:52:59.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1965-06-22T23:48:07.000Z,7.175,123.613,40,6.3,mw,,,,,iscgem,iscgem856343,2015-05-13T18:52:59.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1965-04-26T22:15:45.000Z,21.045,120.798,37.1,6.1,mw,,,,,iscgem,iscgem858053,2015-05-13T18:52:59.000Z,"Taiwan region",earthquake,,,,,automatic,iscgem,iscgem
+1964-11-24T12:40:59.000Z,13.023,124.683,35,6.3,mw,,,,,iscgem,iscgem863013,2015-05-13T18:52:58.000Z,"Catanduanes, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1964-06-10T22:16:40.000Z,5.031,127.34,92.5,6,mw,,,,,iscgemsup,iscgemsup866709,2015-07-13T17:02:23.000Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1963-06-19T09:09:04.000Z,4.588,126.54,65,6.1,mw,,,,,iscgem,iscgem872542,2015-05-13T18:52:57.000Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1963-06-06T05:18:56.000Z,19.896,120.572,24.8,6,mw,,,,,iscgem,iscgem872470,2015-05-13T18:52:57.000Z,"Babuyan Islands region, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1963-01-24T22:27:33.000Z,8,126.864,50,6,mw,,,,,iscgem,iscgem871735,2015-05-13T18:52:56.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1962-08-17T05:04:32.000Z,10.478,121.604,20,6,mw,,,,,iscgem,iscgem17292251,2015-05-13T18:52:56.000Z,"Panay, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1962-03-11T19:19:10.000Z,8.851,126.586,44.6,6.3,mw,,,,,iscgem,iscgem874348,2015-05-13T18:52:56.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1961-06-19T01:45:24.000Z,12.52,121.886,25,6,mw,,,,,iscgem,iscgem17290472,2015-05-13T18:52:55.000Z,"Mindoro, Philippines",earthquake,,,,,automatic,iscgem,iscgem
